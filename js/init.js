@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('.collapsible').collapsible({
-        accordion: false
+        accordion: true
     });
 });
 (function($){
